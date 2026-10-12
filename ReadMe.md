@@ -1,6 +1,3 @@
-# 💫 About Me:
-Estou cursando faculdade de Analise e desenvolvimento de sistemas no 4° semestre.<br>Estou em um curso de programador Full-Stack e desenvolvimento mobile.<br>Tou a procura de estagio. 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pedro-henrique-027513284) 
